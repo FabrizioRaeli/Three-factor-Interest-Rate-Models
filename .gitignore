@@ -1,0 +1,14 @@
+# Ignore MATLAB temporary and auto-save files
+*.asv
+*.m~
+*.bak
+*.fig
+*.mat
+*.mlx
+
+# Ignore folders
+resources/
+
+# Ignore other system files
+.DS_Store
+Thumbs.db
